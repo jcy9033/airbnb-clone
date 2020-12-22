@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/apple/.local/share/virtualenvs/airbnb-clone-H8iIIYJN/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
